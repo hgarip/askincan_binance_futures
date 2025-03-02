@@ -1,0 +1,12 @@
+# Node modülleri
+node_modules/
+
+# Geçici dosyalar
+*.log
+*.tmp
+
+# Diğer
+.DS_Store
+
+# Diğer büyük dosyalar
+.next/ 

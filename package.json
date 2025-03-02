@@ -1,0 +1,27 @@
+{
+  "name": "askincan_binance_futures",
+  "version": "1.0.0",
+  "description": "Binance Futures API servisi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "binance",
+    "futures",
+    "trading",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.1",
+    "binance-api-node": "^0.12.9",
+    "dotenv": "^16.4.7",
+    "next": "^14.2.24",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
